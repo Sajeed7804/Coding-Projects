@@ -8,7 +8,7 @@ def text_to_speech(file_path):
     engine.setProperty('rate', 150)  # Speed of speech
 
     # Open and read the text file
-    with open(file_path, 'r') as file:
+    with open(file_path, encoding="utf-8") as file:
         text = file.read()
 
     # Use the engine to convert text to speech
@@ -19,7 +19,7 @@ def text_to_speech(file_path):
 
 if __name__ == "__main__":
     # Specify the path to your text file
-    text_file_path = "ABSTRACT.txt"
+    text_file_path = "E:\Coding Projects\Text to Speech\ABSTRACT.txt"
 
     # Call the function to convert text to speech
     text_to_speech(text_file_path)
