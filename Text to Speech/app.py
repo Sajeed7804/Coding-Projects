@@ -19,7 +19,7 @@ def text_to_speech(file_path):
 
 if __name__ == "__main__":
     # Specify the path to your text file
-    text_file_path = "path/to/your/text_file.txt"
+    text_file_path = "ABSTRACT.txt"
 
     # Call the function to convert text to speech
     text_to_speech(text_file_path)
