@@ -1,0 +1,236 @@
+ABSTRACT
+Urban green spaces provide environmental ameliorates by reducing air pollution, mitigating urban heat island effects,
+and cooling urban areas. The present study aimed to assess the urban green spaces along with the Normalized Difference
+Vegetation Index and land surface temperature of 41 wards of Chittagong City Corporation in Bangladesh between 2000
+and 2020. The study revealed a dramatic increase in the urban green coverage in the Chittagong City Corporation areas
+during 20 years of time-lapse. The total urban green space increased by 58.09%, from 4488.85 ha in 2000 to 7096.42 ha in
+2020. Thus, per-capita green coverage increased from 0.003 ha to 0.004 ha. The time series analysis shows that the annual
+mean value of Normalized Difference Vegetation Index increased to 0.46 in 2020 from 0.44 in 2000, which indicates a rise in
+green areas in the Chittagong City Corporation. The time series analysis also shows a gradual increase in the annual mean
+temperature from 2000 through 2020. During this time frame, the annual mean temperature in 2000 was 29.46°C, while it
+was 30.41°C in 2020. The study findings will help urban planners build this city sustainably, considering the concept of a
+healthy and eco-friendly city.
+Keywords: Chittagong City Corporation (CCC), high- and low-density vegetation, land surface temperature (LST),
+Normalized Difference Vegetation Index (NDVI), urban green space (UGS), urban heat island (UHI)
+Introduction
+Urban green space (UGS) is a significant worldwide consideration for a healthy urban lifestyle (Jim, 2004). Several
+developed countries have already adopted the UGS concept for environmentally sound urban life (Senanayake
+et al., 2013b; Tajima, 2003). Environmental regulatory services are the critical utility of the UGS. It includes the
+absorption of air pollutants, mitigating sound pollution, generating oxygen, and conserving soil, supporting
+groundwater enrichment (Jennings et al., 2016).
+Urban heat island (UHI), associated with urban microclimates, generally develops due to intensive building
+construction, concrete covers, and different human activities on land (Grover & Singh, 2015). The increasing
+population in the city demands extended areas (Amri & Giyarsih, 2022). Rapid urban growth replaces the natural
+green spaces with concrete impervious surfaces (Simwanda et al., 2019). These changes usually bring negative
+environmental consequences, such as reduced evapotranspiration, increased surface runoff, and temperature,
+and reduced air and water quality, ultimately affecting the landscape and human health (Coutts et al., 2013;
+Huang et al., 2022). Moreover, the unplanned urban development significantly impacts the reduction of vegetation
+coverage deduced from the Normalized Difference Vegetation Index (NDVI) parameter, and as a result,
+the number of UHIs phenomena is increasing (Arshad et al., 2022; Rahman et al., 2022). Increased population
+pressure, conversion of natural land cover types, and urban forests into concrete cover increase the temperature
+more in the center of the city than in the suburban and periphery, which develops the UHI (Sarif et al., 2020).
+Urban heat island is considered within a metropolitan area that is significantly warmer than the suburban and
+periphery areas. The thermal difference is much higher than in the nearest rural areas. Urban heat islands are
+generally caused by unplanned urbanization and over-population, which are responsible for replacing the natural
+environment with a non-permeable heat-generative built environment (Anibaba et al., 2017; Mohan et al.,
+2022; Rajagopalan, 2021; Uddin et al., 2022). Moreover, the UHI also impacts the micro-climatic environment in
+an urban context by changing the precipitation rate, temperature, wind pattern, and developing fog and cloud (Aflaki et al., 2017). The UHI can be identified by monitoring land surface
+temperature (LST) changes over time (Karakuş, 2019). Different land
+cover indices are also considered to investigate the correlation between
+land use and land cover and LST changes. Among the indices, NDVI is
+the most commonly used index to monitor vegetation density changes
+worldwide (Jimenez et al., 2022; Nath, 2014; Nath & Acharjee, 2013). The
+healthiness and stress condition of vegetation cover is represented by
+the NDVI values between −1.0 and +1.0. The negative values represent
+the cloud and water, and the values near zero represent rock and bare
+soil. Very low values of NDVI represent the barren area, whereas moderate
+values represent the parks, shrubs, and grassland (Moisa et al., 2022;
+Nejadrekabi et al., 2022).
+The Chittagong City Corporation (CCC) belongs to a city that has a
+high population and vehicle density in Bangladesh. Rapid industrialization
+and an ever-increasing number of vehicles make the CCC a city
+of harmful air pollutants (Mia et al., 2015; Shamsher & Abdullah, 2013).
+Having a 25,92,439 population in 41 local government units (officially
+called wards), CCC is considered Bangladesh’s most important and largest
+port city. In the city, almost 16,513 people live per square kilometer
+(BBS, 2012). Excessive human pressure, intensive living status, and different
+human activities potentially impact UGS and the urban thermal
+environment. The present study intends to find out the UHIs and critical
+areas of CCC and also tries to discover if there are any impacts on
+LST due to changes in NDVI and vice versa. The research also finds the
+ward-based relationship between the spatiotemporal changes in NDVI
+and LST. These visible (NDVI) and invisible (LST) changes are difficult
+to retrieve using in situ instruments. Instead, remotely sensed data can
+provide quantitatively and qualitatively higher spatial and temporal
+figures (Bai et al., 2020). Thus, this study used the Moderate Resolution
+Imaging Spectroradiometer (MODIS) data to analyze and compare the
+time-series NDVI and LST in the CCC.
+Dispersion of LST and vegetation cover dynamics through NDVI techniques
+determine the environmentally critical areas (Senanayake
+et al., 2013a). In urban areas, especially in Bangladesh, quality green
+spaces are rarely found and are diminishing daily. Along with this, the
+global trend of the greenhouse effect is producing critical environmental
+areas in many cities in Bangladesh (Shahid et al., 2016). The
+concept of UGS is a crucial part of some of the research conducted
+in developed countries (Senanayake et al., 2013b; Tajima, 2003). A
+few pieces of research reveal the issues of green spaces in Dhaka
+city in Bangladesh (Senanayake et al., 2013b; Tajima, 2003). On the
+other hand, very little research explains the city development and its
+environmental challenges and traffic congestion for CCC (Islam et al.,
+2015; Mia et al., 2015; Shamsher & Abdullah, 2013). Some studies were
+conducted on the green space-based recreation change analysis
+(Jashimuddin & Alamgir, 2005) and developing open space (Jafrin &
+Beza, 2018) for the CCC in Bangladesh. However, the investigation of
+CCC regarding the UGS considering its population density, NDVI, and
+LST are absent so far. Therefore, this study has focused on this aspect with specific aims and objectives. The present study aimed at specific
+research questions to achieve its goal, such as, what are the per capita
+UGS, and what are the spatial and temporal modifications of the UGS,
+NDVI, and LST in the CCC? Thus, the specific objectives of this study
+are focused on the following aspects: (i) to assess the UGS per person,
+(ii) to identify UHIs and critical areas, and (iii) to determine the NDVI
+and LST in the CCC of Bangladesh. The findings of this study will help
+urban planners and local governments to build this city sustainably
+by achieving specific sustainable development goals (SDGs) targeting
+Goal No. 11 as “Make cities and human settlements inclusive, safe,
+resilient and sustainable.”
+Method
+Study Area
+The present research selected CCC as the study area because of the
+high population density and heavy traffic congestion. The total population
+of the CCC is 25,92,439, with 16,513 people per square kilometer,
+where the mean size of the household is 4.6, which is growing by 2.62
+persons per year (BBS, 2012). In general, Chittagong is the largest commercial
+city that contributes to the national economy more than the
+other urban areas in Bangladesh. The CCC is considered the second
+most prominent urban center in Bangladesh. The neighboring Upazilas
+of the Chittagong city are Anowara and Patiya Upazila to the south,
+Patiya and Boalkhali Upazila to the east, and Hathazari and Sitakunda
+Upazila to the north. The Bay of Bengal lies on the city's western side.
+The CCC lies in the southeast part of Bangladesh, ranging from 22°14'
+to 22°30' north latitude and 91°45' to 91°53' east longitude covering a
+145 km2 area (BBS, 2012).
+Chittagong port (one of the largest in Bangladesh) makes the CCC
+a diversified, economically intense, industrialized city. In 1989, the
+Chittagong Municipal city was upgraded to a Municipal corporation
+named Chittagong City Corporation. The CCC possesses 41 local government
+units called Ward. The CCC divides into 41 Wards and 211
+Mahallas1 under the jurisdiction of the CCC (Figure 1). These 41 wards
+in CCC are recorded in the official list chronologically from W-1 to
+W-41 and named as South Pahartali (W-1), Jalalabad (W-2), Panchlaish
+(W-3), Chandgaon (W-4), Mohra (W-5), East Sholashahar (W-6), West
+Sholashahar (W-7), Sulakbahar (W-8), North Pahartali (W-9), North
+Kattali (W-10), South Kattali (W-11), Saraipara (W-12), Pahartali (W-13),
+Lal Khan Bazar (W-14), Bagmoniram (W-15), Chawk Bazar (W-16), West
+Bakalia (W-17), East Bakalia (W-18), South Bakalia (W-19), Dewan Bazar
+(W-20), Jamal Khan (W-21), Enayet Bazar (W-22), North Pathantooli
+(W-23), North Agrabad (W-24), Rampur (W-25), North Halishahar (W-26),
+South Agrabad (W-27), Pathantooli (W-28), West Madarbari (W-29), East
+Madarbari (W-30), Alkaran (W-31), Anderkilla (W-32), Firingee Bazar
+(W-33), Patharghata (W-34), Boxir Hat (W-35), Gosaildanga (W-36),
+North Middle Halishahar (W-37), South Middle Halishahar (W-38), South
+Halishahar (W-39), North Potenga (W-40), and South Potenga (W-41).
+In the CCC, the mean annual rainfall, mean annual temperature, and
+annual relative humidity are 3058 mm, 29.53°C, and 78%, respectively
+(BBS, 2012).
+Data Used
+This study assessed a series of land-use transitions with associated data
+to identify the UGS. The project work started in August 2020 and ended
+in June 2021. Both remotely sensed satellite imagery and field data
+were used in the current study. The satellite imageries such as Landsat
+7 Enhanced Thematic mapper (ETM +) and Landsat 8 Operational Land
+Imager (OLI), and the Thermal Infrared Sensor (TIRS) were acquired from
+the United States Geological Survey (USGS) Landsat archives. In addition,
+some ancillary data were collected from different sources like the Forest
+Department, Local Government and Engineering Department, Protected
+Planet, Chittagong Development Authority (CDA), Bangladesh Bureau of
+Statistics (BBS), and the CCC. Direct observation in the field and groundtruthing
+provided the field data to identify the features.
+The study collected satellite imageries from the cloud-free Landsat
+images of 2000 and 2020. Landsat 7 (ETM+) single image data were collected on February 05, 2000, and Landsat 8 OLI-TIRS single image
+data were collected on February 25, 2020, from the web portal of the
+USGS earth explorer (available at https ://ea rthex plore r.usg s.gov /). The
+corresponding CCC boundary shapefile was collected from the CDA.
+The two satellite imageries were preprocessed by following radiometric
+and atmospheric corrections to convert the images into a standard projection.
+The MODIS data were used to find the year-round time series
+NDVI and LST for 2000 and 2020 and from 2000 to 2020. For NDVI and
+LST, the collections “MODI S/006 /MOD1 3A1”— Terra Vegetation Indices
+16-Day Global 500 m resolution, and “MODI S/061 /MOD1 1A2”— Terra
+Land Surface Temperature and Emissivity 8-Day Global 1 km resolution,
+respectively, were used for both the years. The JavaScript coding
+accomplished it in the Google Earth Engine (LPDAAC, 2022a, 2022b).
+Image Classification Accuracy Assessment and Data Analysis
+Method
+Kappa and the confusion matrix were prepared to measure the classification
+accuracy, ensuring the image analysis quality. The overall
+accuracy and the kappa coefficient were calculated to remove the confusion
+about the classification by using the following formula given by
+Congalton (1991) and Lu and Weng (2007), as shown in Equations 1
+and 2. It detected the NDVI and LST changes over time and space through
+comparison. Associated with the UGS, NDVI was calculated as a means
+of phenology. The calculation of LST detected the UHI in the CCC areas.
+The study used ArcGIS Desktop 10.5 for detailed calculation, accuracy
+assessment, and generating detailed maps. For rectification and classification
+of the images, the study used the ERDAS IMAGINE 2015. The
+study provided the time series and land-use change maps of the CCC
+for 2000 and 2020; while creating the map, the scale ratio was maintained
+as 1:125,000. The study collected the base map of the CCC
+from the CDA. It helped the study navigate the urban forest areas and other tree canopies while verifying the changes in the green spaces. It
+also used the Global Positioning System set for ground-truthing. The
+Geographic Information system (GIS) and image processing software,
+that is, ArcGIS 10.5 and ERDAS IMAGINE 2015, processed the data with
+the help of MS Excel. The statistical packages R (version 3.2.2) and MS
+Excel were used to analyze the data statistically. Finally, the combination
+of land use, NDVI, and LST identified the environmentally critical areas
+of the CCC area. The entire process is presented in a methodological
+flowchart in Figure 2. Further, the details of analysis methods are breakdown
+into subheadings such as green space analysis, NDVI, LST, and
+correlation and regression.
+Green Space Analysis
+The study identified the UGS in each of the CCC wards. To find out the
+UGS per capita, the total green spaces extracted for the respective ward
+are divided by the total population in each ward. While classifying the
+rectified imageries, the high-density vegetation and low-density vegetation
+were identified and calculated for each of the CCC wards using
+the spectral reflectance of the imageries and field visit. The high-density
+vegetation was defined as plantation and naturally grown forests with
+crowns crisscrossing, and low-density vegetation was defined as the
+trees whose crowns are not crisscrossing and low crown shrubs.
+Normalized Difference Vegetation Index Analysis Method
+Normalized Difference Vegetation Index is the vegetation index representing
+the green concentration and presence of chlorophyll which
+is critical and closely related to oxygen production in a specific area
+(Pettorelli, 2013). It was calculated in the ArcGIS 10.5 software using
+the formula adopted by (Myneni et al., 1995; Running, 1990), shown in
+equation (3)
+Land Surface Temperature Analysis Method
+Temperature monitoring from the earth data identifies the hotter and
+cooler hotspots and the associated buffers. This index will feed into the
+final understanding of the critical areas of the CCC wards. The ArcGIS tool
+calculated the LST using the following equations (4–10) (USGS, 2019a).
+For the Landsat 7 imagery, the LST calculation followed the following
+formulae (USGS, 2019a):
+Conversion of Digital Number to Radiance
+Here, Lλ = spectral radiance at the sensor’s aperture in (Watts/(m² ×
+sr × μm)), QCAL = quantized calibrated pixel value in digital number
+(DN), LMINλ = spectral radiance scaled to QCALMIN in (Watts/(m² × sr
+× μm)), LMAXλ = spectral radiance scaled to QCALMAX in (Watts/(m² ×
+sr × μm)), QCALMIN = minimum quantized calibrated pixel value (corresponding
+to LMINλ) in DN = 1 for LPGS products = 1 for NLAPS** products
+processed after April 4, 2004 = 0 for NLAPS** products processed
+before May 4, 2004, and QCALMAX = maximum quantized calibrated
+pixel value (corresponding to LMAXλ) in DN = 255
+Conversion of Radiance into Brightness Temperature (In Kelvin) Calculation of Top of Atmospheric Spectral Radiance Conversion of Radiance to At-Sensor Temperature Calculation of the NDVI Calculation of the proportion of the vegetation, Pv Calculation of the Land Surface Emissivity (LSE (ϵ))  Calculation of the LST
+Correlation and Regression
+The relationship between population versus NDVI and NDVI versus LST
+was examined by regression coefficients and simple correlation analysis
+(Chen et al., 2013). The linear regression analysis estimated the regression
+coefficients for the dependent variable NDVI and the independent
+variable population, and then for the dependent variable LST and the
+independent variable NDVI separately (Anbazhagan & Paramasivam,
+2016). The significance level of the statistics was also analyzed by calculating
+p-values for the years 2000 and 2020 (Sanjeewani & Manawadu,
+2016). Equation (11) demonstrates the form of the regression structure
+and clearly describes the connection between the dependent and
+independent variables.  y = a + bx Here, y is the dependent variable being predicted, x is the independent
+variable, b is the slope of the line, and a is the y-intercept.
